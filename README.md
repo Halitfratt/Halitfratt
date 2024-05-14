@@ -16,8 +16,8 @@
 ![Visual Studio ](https://img.shields.io/badge/VS-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio-code)
 
-## 🔍  Where to find me
+#### 🔍  Where to find me
  [![Linkedin: Halit Fırat Karabacak](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halit-frat-47190329b//)](https://www.linkedin.com/in/halit-frat-47190329b/)
 
-## 📊 Statistics
+#### 📊 Statistics
 # ![stats](https://github-readme-stats.vercel.app/api?username=Halitfratt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
